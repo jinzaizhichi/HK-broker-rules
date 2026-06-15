@@ -2,14 +2,15 @@
 # AUTHOR: MsMc
 # REPO: https://github.com/Allen2023/broker-rules
 # UPDATED: 2026-06-13
-# DOMAIN-SUFFIX: 68
+# DOMAIN-SUFFIX: 70
 # DOMAIN: 18
 # IP-CIDR: 63
-# TOTAL: 149
+# TOTAL: 151
 DOMAIN-SUFFIX,futuhk.com
 DOMAIN-SUFFIX,futu.link
 DOMAIN-SUFFIX,futunn.com
 DOMAIN-SUFFIX,futuhn.com
+DOMAIN-SUFFIX,futu.hk
 DOMAIN-SUFFIX,futu.com
 DOMAIN-SUFFIX,futu0.com
 DOMAIN-SUFFIX,futu1.com
@@ -31,6 +32,7 @@ DOMAIN-SUFFIX,futuesop.com
 DOMAIN-SUFFIX,futubull.cn
 DOMAIN-SUFFIX,futuchain.com
 DOMAIN-SUFFIX,moomoo.com
+DOMAIN-SUFFIX,moomoo.com.hk
 DOMAIN-SUFFIX,lbctrl.com
 DOMAIN-SUFFIX,lbkrs.com
 DOMAIN-SUFFIX,wbrks.com
