@@ -2,10 +2,10 @@
 # AUTHOR: MsMc
 # REPO: https://github.com/Allen2023/broker-rules
 # UPDATED: 2026-06-13
-# DOMAIN-SUFFIX: 70
+# DOMAIN-SUFFIX: 79
 # DOMAIN: 18
 # IP-CIDR: 63
-# TOTAL: 151
+# TOTAL: 160
 DOMAIN-SUFFIX,futuhk.com
 DOMAIN-SUFFIX,futu.link
 DOMAIN-SUFFIX,futunn.com
@@ -76,6 +76,15 @@ DOMAIN-SUFFIX,longbridge.sg
 DOMAIN-SUFFIX,tigerbrokers.com
 DOMAIN-SUFFIX,tigerbrokers.net
 DOMAIN-SUFFIX,tigerbrokers.nz
+DOMAIN-SUFFIX,tigersecurities.com
+DOMAIN-SUFFIX,hkex.com.hk
+DOMAIN-SUFFIX,sfc.hk
+DOMAIN-SUFFIX,vbkr.com
+DOMAIN-SUFFIX,huashengstock.com
+DOMAIN-SUFFIX,cicc.com
+DOMAIN-SUFFIX,saxo.com
+DOMAIN-SUFFIX,dbsvickers.com
+DOMAIN-SUFFIX,ccbhkex.com
 DOMAIN,cdn.futustatic.com
 DOMAIN,quote.longbridge.global
 DOMAIN,trade.longportapp.com
