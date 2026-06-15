@@ -1,0 +1,97 @@
+# NAME: Bank
+# AUTHOR: jinzaizhichi
+# REPO: https://github.com/Arthur-vx/broker-rules
+# UPDATED: 2026-06-15
+# DOMAIN-SUFFIX: 47
+# DOMAIN: 5
+# IP-CIDR: 0
+# TOTAL: 52
+# ===== 发钞行 / Note-issuing Banks =====
+# HSBC Hong Kong (汇丰银行)
+DOMAIN-SUFFIX,hsbc.com.hk
+DOMAIN-SUFFIX,hsbcnet.com
+DOMAIN-SUFFIX,hsbcpremier.com.hk
+DOMAIN-SUFFIX,hsbcinsurance.com.hk
+DOMAIN-SUFFIX,hsbc.com
+DOMAIN-SUFFIX,hsbcgroup.com
+# Bank of China (Hong Kong) (中银香港)
+DOMAIN-SUFFIX,bochk.com
+# Standard Chartered Hong Kong (渣打银行)
+DOMAIN-SUFFIX,standardchartered.com.hk
+DOMAIN-SUFFIX,sc.com
+# ===== 持牌银行 / Licensed Banks =====
+# Hang Seng Bank (恒生银行)
+DOMAIN-SUFFIX,hangseng.com
+DOMAIN-SUFFIX,hangseng.com.cn
+# Bank of East Asia (东亚银行)
+DOMAIN-SUFFIX,hkbea.com
+# Citibank Hong Kong (花旗银行)
+DOMAIN-SUFFIX,citibank.com.hk
+# DBS Bank Hong Kong (星展银行)
+DOMAIN-SUFFIX,dbs.com.hk
+DOMAIN-SUFFIX,dbs.com
+# OCBC Wing Hang / OCBC Hong Kong (华侨银行)
+DOMAIN-SUFFIX,ocbc.com.hk
+DOMAIN-SUFFIX,ocbcwhhk.com
+# China CITIC Bank International (中信银行国际)
+DOMAIN-SUFFIX,cncbinternational.com
+# ICBC Asia (工银亚洲)
+DOMAIN-SUFFIX,icbcasia.com
+# China Construction Bank Asia (建银亚洲)
+DOMAIN-SUFFIX,asia.ccb.com
+# Bank of Communications Hong Kong (交通银行香港)
+DOMAIN-SUFFIX,bankcomm.com.hk
+# CMB Wing Lung Bank (招商永隆银行)
+DOMAIN-SUFFIX,cmbwinglungbank.com
+DOMAIN-SUFFIX,winglungbank.com
+# Dah Sing Bank (大新银行)
+DOMAIN-SUFFIX,dahsing.com
+# Shanghai Commercial Bank (上海商业银行)
+DOMAIN-SUFFIX,shacombank.com.hk
+# Fubon Bank Hong Kong (富邦银行)
+DOMAIN-SUFFIX,fubonbank.com.hk
+# Chong Hing Bank (创兴银行)
+DOMAIN-SUFFIX,chbank.com
+# Nanyang Commercial Bank (南洋商业银行)
+DOMAIN-SUFFIX,ncb.com.hk
+# Chiyu Banking Corp (集友银行)
+DOMAIN-SUFFIX,chiyubank.com
+# Public Bank Hong Kong (大众银行)
+DOMAIN-SUFFIX,publicbank.com.hk
+# China Merchants Bank Hong Kong (招商银行香港)
+DOMAIN-SUFFIX,cmbchina.com
+# ===== 虚拟银行 / Virtual Banks =====
+# ZA Bank (众安银行)
+DOMAIN-SUFFIX,za.group
+DOMAIN-SUFFIX,bank.za.group
+# WeLab Bank (汇立银行)
+DOMAIN-SUFFIX,welab.bank
+DOMAIN-SUFFIX,welab.co
+# Mox Bank
+DOMAIN-SUFFIX,mox.com
+# livi Bank (理慧银行)
+DOMAIN-SUFFIX,livi.hk
+DOMAIN-SUFFIX,livibank.com
+# Fusion Bank (富融银行)
+DOMAIN-SUFFIX,fusionbank.com
+# Airstar Bank (天星银行)
+DOMAIN-SUFFIX,airstarbank.com
+# Ant Bank Hong Kong (蚂蚁银行香港)
+DOMAIN-SUFFIX,antbank.com.hk
+DOMAIN-SUFFIX,antbank.hk
+# PAO Bank (平安壹账通银行)
+DOMAIN-SUFFIX,paob.com.hk
+# ===== 银行基础设施 / Banking Infrastructure =====
+# HKMA (香港金融管理局)
+DOMAIN-SUFFIX,hkma.gov.hk
+# JETCO (银通)
+DOMAIN-SUFFIX,jetco.com.hk
+# FPS / HKICL (转数快)
+DOMAIN-SUFFIX,fps.hkicl.com.hk
+DOMAIN-SUFFIX,hkicl.com.hk
+# ===== 网银/手机银行关键子域 / Online & Mobile Banking =====
+DOMAIN,online-banking.hsbc.com.hk
+DOMAIN,online.hangseng.com
+DOMAIN,online.hkbea.com
+DOMAIN,ibanking.bochk.com
+DOMAIN,mobile-banking.hsbc.com.hk
